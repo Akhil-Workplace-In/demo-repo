@@ -1,5 +1,5 @@
 ## Demo
-this si a readme file.
+this is a readme file.
 
-Adding line number 4
+Adding line.
 Adding another line to the file
